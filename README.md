@@ -4,10 +4,10 @@ Hi there! I'm a passionate developer with experience in PHP, Kotlin, Java, and M
 💻 Tech Stack:
 Languages: PHP, Kotlin, Java, JavaScript
 Databases: MySQL, MongoDB
-Tools & Frameworks: Android Studio, Visual Studio Code, WSL, Firebase
-Development Areas: Full-Stack Development, CRUD operations, API integrations
+Tools & Frameworks: Android Studio, Visual Studio Code, Firebase
+Development Areas: Development, CRUD operations, 
 🚀 Current Projects:
-Implementing a post management system in PHP with images and modals
+Implementing a management system in PHP 
 Building a MongoDB CRUD system in Java
 Integrating Firebase into Android applications
 🌱 Always Learning:
