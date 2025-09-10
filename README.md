@@ -29,6 +29,7 @@ I'm constantly expanding my knowledge in modern technologies and best practices 
 </p>
 
 
+
 ## 🚀 My Skills  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
