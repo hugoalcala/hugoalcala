@@ -18,8 +18,8 @@ I'm constantly expanding my knowledge in modern technologies and best practices 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hugoalcala&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoalcala&layout=compact&theme=radical"/>
 </p>
 
 ## 🚀 My Skills  
