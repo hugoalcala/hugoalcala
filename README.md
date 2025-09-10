@@ -13,7 +13,7 @@ Integrating Firebase into Android applications
 🌱 Always Learning:
 I'm constantly expanding my knowledge in modern technologies and best practices in software development. Currently, I'm exploring advanced database optimization and cloud services.
 
-📫 Feel free to connect with me or check out my projects!
+📫 Feel free to connect with me or check out my projects! Email: hugo.pascual.alcala@gmail.com
 
 ## 📊 GitHub Analytics
 
