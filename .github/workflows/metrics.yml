@@ -14,7 +14,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: hugocalcala # Cambia esto por tu nombre de usuario de GitHub
+          user: hugoalcala # Cambia esto por tu nombre de usuario de GitHub
           template: classic
           config_timezone: Europe/Madrid # o tu zona horaria
           base: header, activity, community, repositories
