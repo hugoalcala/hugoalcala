@@ -19,13 +19,11 @@ jobs:
           config_timezone: Europe/Madrid
           base: header, activity, community, repositories
           
-          # Plugin para mostrar lenguajes
+          # Plugin to show languages
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-percentage, lines
           plugin_languages_analysis_timeout: 30
 
-          # Para evitar errores de permisos, especifica que solo quieres tus repositorios públicos
-          repositories_public: yes
-          repositories: yes
-          repositories_skipped: private
+          # Skip private repositories to prevent permission errors
+          plugin_repositories_skipped: private
