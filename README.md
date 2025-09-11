@@ -15,13 +15,9 @@ I'm constantly expanding my knowledge in modern technologies and best practices 
 
 📫 Feel free to connect with me or check out my projects! Email: hugo.pascual.alcala@gmail.com
 
-## 📊 GitHub Analytics
+### 📈 GitHub Metrics
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-
+![GitHub Metrics](https://github.com/hugocalcala/hugocalcala/blob/main/metrics.svg)
 
 
 ## 🚀 My Skills  
