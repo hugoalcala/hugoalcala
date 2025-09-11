@@ -2,7 +2,7 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Se ejecutará cada día a medianoche
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -19,11 +19,13 @@ jobs:
           config_timezone: Europe/Madrid
           base: header, activity, community, repositories
           
-          # Plugins para mostrar lenguajes
+          # Plugin para mostrar lenguajes
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-percentage, lines
           plugin_languages_analysis_timeout: 30
 
-          # Ignora repositorios privados para evitar errores de permisos
-          plugin_repositories_skipped: private
+          # Para evitar errores de permisos, especifica que solo quieres tus repositorios públicos
+          repositories_public: yes
+          repositories: yes
+          repositories_skipped: private
