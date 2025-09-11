@@ -18,15 +18,9 @@ I'm constantly expanding my knowledge in modern technologies and best practices 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hugoalcala&show_icons=true&theme=radical&count_private=true" 
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoalcala&layout=compact&theme=radical&count_private=true" 
-    alt="Most Used Languages"
-  />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
+
 
 
 
