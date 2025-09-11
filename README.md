@@ -17,8 +17,7 @@ I'm constantly expanding my knowledge in modern technologies and best practices 
 
 ### 📈 GitHub Metrics
 
-![GitHub Metrics](https://github.com/hugocalcala/hugocalcala/blob/main/metrics.svg)
-
+![GitHub Metrics](https://raw.githubusercontent.com/hugoalcala/hugoalcala/main/metrics.svg)
 
 ## 🚀 My Skills  
 
