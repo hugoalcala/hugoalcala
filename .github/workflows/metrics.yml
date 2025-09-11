@@ -2,12 +2,15 @@ name: Metrics
 
 on:
   schedule: [{cron: "0 * * * *"}] # cada hora
-  workflow_dispatch: # permite lanzarlo manualmente
+  workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
@@ -17,3 +20,11 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
+
+      - name: Commit metrics
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg
+          git commit -m "chore: update metrics" || echo "No changes to commit"
+          git push
