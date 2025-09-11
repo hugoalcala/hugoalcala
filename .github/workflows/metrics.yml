@@ -26,4 +26,4 @@ jobs:
           plugin_languages_analysis_timeout: 30
 
           # Para evitar el error de permisos con repositorios privados
-          plugin_repositories_skipped: hugocalcala
+          plugin_repositories_skipped: hugoalcala
