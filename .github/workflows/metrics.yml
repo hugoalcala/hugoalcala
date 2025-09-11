@@ -16,14 +16,14 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: hugoalcala
           template: classic
-          config_timezone: Europe/Madrid # o tu zona horaria
+          config_timezone: Europe/Madrid
           base: header, activity, community, repositories
-
-          # Plugin para mostrar lenguajes
+          
+          # Plugins para mostrar lenguajes
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-percentage, lines
           plugin_languages_analysis_timeout: 30
 
-          # Para evitar el error de permisos con repositorios privados
-          plugin_repositories_skipped: hugoalcala
+          # Ignora repositorios privados para evitar errores de permisos
+          plugin_repositories_skipped: private
