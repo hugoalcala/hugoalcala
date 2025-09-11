@@ -1,0 +1,19 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 * * * *"}] # cada hora
+  workflow_dispatch: # permite lanzarlo manualmente
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.PAT_1 }}
+          base: header, activity, community, repositories, metadata
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage
