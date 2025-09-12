@@ -19,7 +19,7 @@ I'm constantly expanding my knowledge in modern technologies and best practices 
 
 [![Hugoalcala's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugoalcala&show_icons=true&theme=dark)](https://github.com/hugoalcala/github-readme-stats)[!
 
-[![hugoalcala's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugoalcala&show_icons=true&theme=dark)](https://github.com/anurag-majumdar/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugoalcala&theme=dark)](https://git.io/streak-stats)
 
 ## 🚀 My Skills  
 
