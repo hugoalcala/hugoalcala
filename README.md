@@ -18,7 +18,6 @@ I'm constantly expanding my knowledge in modern technologies and best practices 
 ### 📈 GitHub Metrics
 
 [![Hugoalcala's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugoalcala&show_icons=true&theme=dark)](https://github.com/hugoalcala/github-readme-stats)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugoalcala&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoalcala&layout=compact&theme=dark)](https://github.com/hugoalcala/github-readme-stats)
 ## 🚀 My Skills  
 
