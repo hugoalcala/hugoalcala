@@ -16,8 +16,8 @@ I'm constantly expanding my knowledge in modern technologies and best practices 
 📫 Feel free to connect with me or check out my projects! Email: hugo.pascual.alcala@gmail.com
 
 ### 📈 GitHub Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugoalcala&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoalcala&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugoalcala&show_icons=true&theme=dark&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoalcala&layout=compact&theme=dark&cache_seconds=1800)
 
 ## 🚀 My Skills  
 
